@@ -1,0 +1,25 @@
+.contenedor{
+width: 100%;
+height: 1200px;
+display: flex;
+flex-direction: column;
+}
+.encabezado{
+    width: 100%;
+    height: 25px;
+    background-color: rgb(61, 37, 197);
+    font-size: 30px;
+    text-align: center;
+}
+.titulotecnologia{
+    width: 100%;
+    height: 25px;
+    background-color: rgb(14, 209, 40);
+    font-size: 30px;
+    text-align: center;
+}
+.tecnologia{}
+encabezado ingles{}
+ingles{}
+encabezado sociales{}
+sociales{}
