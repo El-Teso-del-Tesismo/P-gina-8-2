@@ -21,15 +21,15 @@ ul, ol {
 }
 
 .nav li a {
-    background-color: #0d1acf;
-    color: #080808;
+    background-color: #cf4a0d;
+    color: #c00c0c;
     text-decoration: none;
     padding: 10px 12px;
     display: block;
 }
 
 .nav li a:hover {
-    background-color: #ef04e3;
+    background-color: #efa504;
 }
 
 .nav li ul {
